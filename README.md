@@ -1,4 +1,4 @@
-# Calculadora em Python
+# 🧮 Calculadora em Python
 
 Projeto desenvolvido para praticar lógica de programação utilizando Python.
 
