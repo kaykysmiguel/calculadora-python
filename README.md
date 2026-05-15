@@ -18,6 +18,7 @@ Treinar estruturas condicionais, variáveis e entrada de dados.
 ## Como executar
 
 1. Instale o Python
-2. Execute o arquivo:
+2. Clone o repositório
+3. Execute o arquivo:
 
 python calculadora.py
