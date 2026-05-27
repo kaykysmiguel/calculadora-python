@@ -1,59 +1,32 @@
 # 🧮 Calculadora em Python
 
-Projeto desenvolvido para praticar lógica de programação utilizando Python.
-
----
+Projeto desenvolvido em Python para prática de lógica de programação.
 
 ## 🚀 Funcionalidades
 
-- ➕ Soma
-- ➖ Subtração
-- ✖️ Multiplicação
-- ➗ Divisão
-
----
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Escolha de operações pelo usuário
 
 ## 🛠️ Tecnologias utilizadas
 
 - Python
 - VS Code
 
----
-
 ## 🎯 Objetivo
 
-Treinar conceitos fundamentais de programação, como:
-
-- Estruturas condicionais
+Praticar:
 - Variáveis
+- Estruturas condicionais
 - Entrada de dados
 - Operações matemáticas
 - Lógica de programação
 
----
-
 ## ▶️ Como executar
 
 1. Instale o Python
-2. Clone este repositório
-3. Execute o arquivo no terminal:
+2. Execute o arquivo:
 
 python calculadora.py
-
----
-
-## 📚 Aprendizados
-
-Durante o desenvolvimento deste projeto foram praticados:
-
-- Uso de `input()`
-- Uso de `if`, `elif` e `else`
-- Operações matemáticas
-- Manipulação de variáveis
-- Organização de código
-
----
-
-## 👨‍💻 Autor
-
-Projeto desenvolvido por Kayky Miguel.
